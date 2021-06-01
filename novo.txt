@@ -1,1 +1,4 @@
 Arquivo de teste
+
+Haverá conflito nessa linha
+O outro arquivo não tem essa linha
