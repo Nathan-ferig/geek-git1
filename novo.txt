@@ -5,3 +5,7 @@ Haverá conflito nessa linha
 O outro arquivo não tem essa linha
 
 # Conflito resolvido
+
+mais um teste de conflito
+
+# Conflito resolvido
