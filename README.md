@@ -12,4 +12,4 @@ Please, check out my other projects here in Github.
 
 ---
 
-Nathan Ferig - [LinkedIn](https://www.linkedin.com/in/nathanferig/ "LinkedIn"). - nathan.ferig@gmail.com
+Nathan Ferig - [LinkedIn](https://www.linkedin.com/in/nathanferig/ "LinkedIn") - nathan.ferig@gmail.com
