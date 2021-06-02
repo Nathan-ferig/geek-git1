@@ -1,34 +1,15 @@
-# Nome do seu projeto
+# Learning Repository
 
-> Um resumo curto sobre o que o seu projeto faz (uma ou duas linhas)
+> This repository was created for educational and learning proporses.
 
-Um ou dois parágrafos sobre o seu projeto e o que ele faz.
+This repository was created by me as part of an online course on Git & Github. This course was delivered by The Geek University and hosted at Udemy. It can be found [here](https://www.udemy.com/course/curso-de-git-e-github-essencial// "Git & Github essencial para o desenvolvedor").
 
-"adicione uma imagem do seu projeto"
+In this course, I learned how to use Git and Github as a developer should know. 
 
-## Instalação
+Since I've already finish the course, this repository will be archieve and keeped as read-only.
 
-Mac, OS, Linux, Windows, etc
+Please, check out my other projects here in Github.
 
-## Exemplo de uso
+---
 
-Exemplifique o uso do seu projeto. Como ele pode ser útil? Divida essa parte em partes menores e coloque prints e trechos do código, se possível.
-
-## Ambiente de desenvolvimento
-
-Descreva como instalar e preparar qualquer dependência de desenvolvimento para que seu projeto possa ser executado localmente e as pessoas possam contribuir.
-
-Se possível, forneça as informações para diferentes plataformas.
-
-## Histórico de atualizações
-
-* 0.2.1 
-    * Atualização dos docs (O código não foi alterado)
-
-Histórico de atualizações em formato de lista.
-
-## Meta
-
-Seu nome - [Sua rede social] - seu email
-Distribuído sobre a licença. Veja [Licença] para mais informações.
-[link para o projeto]
+Nathan Ferig - [LinkedIn](https://www.linkedin.com/in/nathanferig/ "LinkedIn"). - nathan.ferig@gmail.com
